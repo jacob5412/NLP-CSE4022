@@ -4,12 +4,15 @@
 Created on Fri Jul 20 08:22:33 2018
 
 @author: jacobjohn
+
+//https://www.jasondavies.com/wordcloud/
+
 """
 import nltk
 import re
-from nltk.corpus import inaugural 
+from nltk.corpus import inaugural
 
-Obama = inaugural.words(fileids = '2009-Obama.txt')[:500]
+Obama = inaugural.words(fileids = '2009-Obama.txt')
 
 #declare a dictionary
 word_freq = {}
@@ -31,3 +34,7 @@ while len(max_dict) < 5:
 print("The five most frequent words are: ")
 for key in max_dict:
     print(key,":",max_dict[key])
+    
+fd = nltk.FreqDist(Obama)
+fd.plot(30,cumulative=False)
+

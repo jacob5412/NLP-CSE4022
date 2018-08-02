@@ -35,6 +35,10 @@ while len(max_dict) < 5:
 print("The five most frequent words are: ")
 for key in max_dict:
     print(key+":",max_dict[key])
+    
+#plotting
+fd = nltk.FreqDist(Obama)
+fd.plot(30,cumulative=False)
 ```
 
     The five most frequent words are: 
@@ -43,4 +47,8 @@ for key in max_dict:
     of: 82
     to: 66
     our: 58
+
+
+
+![png](output_0_1.png)
 
