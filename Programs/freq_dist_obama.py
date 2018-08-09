@@ -31,6 +31,7 @@ while len(max_dict) < 5:
             max_key = key
             max_val = word_freq[key]
     max_dict[max_key] = max_val
+    
 print("The five most frequent words are: ")
 for key in max_dict:
     print(key,":",max_dict[key])
