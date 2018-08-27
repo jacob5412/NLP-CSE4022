@@ -1,5 +1,0 @@
-3.  Explore COCA - corpus of contemporary american english
-    demonstrate any three of the five features
-    3.1 Find the frequency count of a word
-    3.2 Chart - word - frequency; selection; sub-selection; 
-    3.3 Collocate  - Display three collocations on the left
