@@ -9,6 +9,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.corpus import inaugural
 from nltk.corpus import wordnet as wn
+from nltk.tokenize import TweetTokenizer
 import tweepy
 
 ##Using Obama's inaugural speech
@@ -49,9 +50,13 @@ auth.set_access_token("2836413980-FAAt3qj1pM51RCvw52x6E3RauFDSJc49NVzxlfQ", "G91
 api = tweepy.API(auth)
 
 public_tweets = api.home_timeline()
+tknzr = TweetTokenizer()
 for tweet in public_tweets:
     print("Tweet: ",tweet.text)
     sent = nltk.sent_tokenize(tweet.text)
     print("Sentence tokenization: ", sent)
     word = nltk.word_tokenize(tweet.text)
     print("Word tokenization: ", word)
+    tweett = tknzr.tokenize(tweet.text)
+    print("Tweet tokenized: ",tweett)
+    print("\n")
