@@ -101,8 +101,8 @@ for text in texts:
 ##Implementing tokenization
 #Twitter aware tokenizer
 
-auth = tweepy.OAuthHandler("1SwbipX3sXhWt3FuouDjkwBoO", "aWrGq84Vyex3e44Lg7UENhOS5WfbqWMvPwJBwBCJJqTbHUONG8")
-auth.set_access_token("2836413980-FAAt3qj1pM51RCvw52x6E3RauFDSJc49NVzxlfQ", "G91NNwByh5SAPbdXAS4uQSRHsEKfaNpmLFyqC9EvfoiIT")
+auth = tweepy.OAuthHandler("", "")
+auth.set_access_token("", "")
 
 api = tweepy.API(auth)
 
