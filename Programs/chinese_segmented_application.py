@@ -1,7 +1,6 @@
 from tkinter import *
 import subprocess
 import os
-import shlex
 
 fields = 'File Path', 'Chinese Text'
 entries = []
