@@ -1,1 +1,37 @@
-# NLP
+# Natural Language Processing
+
+This repository contains all the parallel and distributed assignments for the CSE4022 lab as of Fall'18.
+
+## [Experiment 1](https://github.com/jacobjohn2016/NLP/blob/master/Final/Experiment-1/Experiment-1.md)
+* Import an inaugural speech using nltk.corpus
+* Display top five frequent words
+* Create a word cloud ([Result](https://github.com/jacobjohn2016/NLP/blob/master/Final/Experiment-1/Obama_inaugural_worldcloud.png))
+
+## Experiment 2
+* Use nltk.corpus to plot a conditional frequency distribution ([Result](https://github.com/jacobjohn2016/NLP/blob/master/Final/Experiment-2/Experiment-2b.md))
+* Import and use stanford's chinese segmenter ([Result](https://github.com/jacobjohn2016/NLP/blob/master/Final/Experiment-2/Experiment-2a.md))
+
+## [Experiment 3](https://github.com/jacobjohn2016/NLP/blob/master/Final/Experiment-3/exercise_3.pdf)
+* Exploring Corpus of Contemporary American english (COCA)
+
+## [Experiment 4](https://github.com/jacobjohn2016/NLP/blob/master/Final/Experiment-4/Experiment-4.md)
+* Remove stopwords from any corpus
+* Import CMU wordlist
+* Use wordnet
+* POS Tag tweets
+
+## [Experiment 5](https://github.com/jacobjohn2016/NLP/blob/master/Final/Expierment-5/Experiment-5.md)
+* Get two texts
+* Remove stop words
+* Map the text to vector spaces
+* Compute cosine(vec1, vec2)
+* Use SciPy
+* Take a call if you should do Stemming or not
+
+## [Digital Assignment 1](https://github.com/jacobjohn2016/NLP/blob/master/Final/Digital-Assignment-1/OpenNLP_pdf.pdf)
+* Academic review of Apache OpenNLP
+* Sample code of OpenNLP in R
+
+## Authors
+
+* **Jacob John** - *Initial work* - [jacobjohn2016](github.com/jacobjohn2016/)
