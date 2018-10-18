@@ -20,7 +20,7 @@ This repository contains all the parallel and distributed assignments for the CS
 * Use wordnet
 * POS Tag tweets
 
-## [Experiment 5](https://github.com/jacobjohn2016/NLP/blob/master/Final/Expierment-5/Experiment-5.md)
+## [Experiment 5](https://github.com/jacobjohn2016/NLP/blob/master/Final/Experiment-5/Experiment-5.md)
 * Get two texts
 * Remove stop words
 * Map the text to vector spaces
