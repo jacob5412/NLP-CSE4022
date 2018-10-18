@@ -28,7 +28,7 @@ This repository contains all the parallel and distributed assignments for the CS
 * Use SciPy
 * Take a call if you should do Stemming or not
 
-## [Digital Assignment 1](https://github.com/jacobjohn2016/NLP/blob/master/Final/Digital-Assignment-1/OpenNLP.pdf)
+## [Digital Assignment 1](https://github.com/jacobjohn2016/NLP/blob/master/Final/Digital-Assignment-1/DA1.pdf)
 * Academic review of Apache OpenNLP
 * Sample code of OpenNLP in R
 
