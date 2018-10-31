@@ -28,6 +28,12 @@ This repository contains all the parallel and distributed assignments for the CS
 * Use SciPy
 * Take a call if you should do Stemming or not
 
+## [Experiment 6](https://github.com/jacobjohn2016/NLP/tree/master/sequence_tagging_basic)
+* Implemented a sequence tagger.
+* Name Entity Recognition.
+* [Original Link](https://github.com/guillaumegenthial/sequence_tagging)
+* Credit: _[guillaumegenthial](https://github.com/guillaumegenthial)_
+
 ## [Digital Assignment 1](https://github.com/jacobjohn2016/NLP/blob/master/Final/Digital-Assignment-1/DA1.pdf)
 * Academic review of Apache OpenNLP
 * Sample code of OpenNLP in R
