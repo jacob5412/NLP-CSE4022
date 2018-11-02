@@ -34,6 +34,11 @@ This repository contains all the parallel and distributed assignments for the CS
 * [Original Link](https://github.com/guillaumegenthial/sequence_tagging)
 * Credit: _[guillaumegenthial](https://github.com/guillaumegenthial)_
 
+## [Experiment 7]
+* Using a chunker
+* [Original Link](https://github.com/CogComp/cogcomp-nlpy)
+* Credit _[CogComp](https://github.com/CogComp)_
+
 ## [Digital Assignment 1](https://github.com/jacobjohn2016/NLP/blob/master/Final/Digital-Assignment-1/DA1.pdf)
 * Academic review of Apache OpenNLP
 * Sample code of OpenNLP in R
