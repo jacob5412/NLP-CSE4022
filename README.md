@@ -34,8 +34,8 @@ This repository contains all the parallel and distributed assignments for the CS
 * [Original Link](https://github.com/guillaumegenthial/sequence_tagging)
 * Credit: _[guillaumegenthial](https://github.com/guillaumegenthial)_
 
-## [Experiment 7](https://github.com/jacobjohn2016/NLP/tree/master/chunker)
-* Using a chunker
+## [Experiment 7](https://github.com/jacobjohn2016/NLP/tree/master/CogComp)
+* Using CogComp to run NLP tools such as Part-of-Speech tagging, Chunking, Named Entity Recognition, etc.
 * [Original Link](https://github.com/CogComp/cogcomp-nlpy)
 * Credit _[CogComp](https://github.com/CogComp)_
 
