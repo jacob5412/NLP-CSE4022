@@ -39,6 +39,11 @@ This repository contains all the parallel and distributed assignments for the CS
 * [Original Link](https://github.com/CogComp/cogcomp-nlpy)
 * Credit _[CogComp](https://github.com/CogComp)_
 
+## [Experiment 8](https://github.com/jacobjohn2016/NLP/blob/master/Programs/chinese_segmented_application.py)
+* A Chinese word segmenter
+* Designed using Stanford NLP
+* A python GUI based application
+
 ## [Digital Assignment 1](https://github.com/jacobjohn2016/NLP/blob/master/Final/Digital-Assignment-1/DA1.pdf)
 * Academic review of Apache OpenNLP
 * Sample code of OpenNLP in R
