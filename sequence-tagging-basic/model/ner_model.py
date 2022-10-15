@@ -1,11 +1,9 @@
 import numpy as np
-import os
 import tensorflow as tf
 
-
-from .data_utils import minibatches, pad_sequences, get_chunks
-from .general_utils import Progbar
 from .base_model import BaseModel
+from .data_utils import get_chunks, minibatches, pad_sequences
+from .general_utils import Progbar
 
 
 class NERModel(BaseModel):
