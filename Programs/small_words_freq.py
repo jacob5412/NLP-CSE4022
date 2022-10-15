@@ -3,15 +3,14 @@
 """
 Created on Fri Aug 3 08:10:33 2018
 
-@author: jacobjohn
+@author: jacob
 
 """
-import re
 from nltk.corpus import inaugural
 
-Obama = inaugural.words(fileids='2009-Obama.txt')
+Obama = inaugural.words(fileids="2009-Obama.txt")
 
-#declare a dictionary
+# declare a dictionary
 word_freq = {}
 for tok in Obama:
     if len(tok) <= 3:

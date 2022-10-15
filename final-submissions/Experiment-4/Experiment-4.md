@@ -5,7 +5,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: jacobjohn
+@author: jacob
 
 """
 import nltk
